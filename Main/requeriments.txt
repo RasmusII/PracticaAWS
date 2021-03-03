@@ -1,0 +1,8 @@
+numpy
+matplotlib
+ffmpeg
+imageio
+imageio-ffmpeg
+pydub
+ffprobe
+boto3
